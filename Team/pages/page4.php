@@ -6,7 +6,7 @@
   
 <div class="row" style="display:flex;flex-direction:row;justify-content:space-between;">
     
-    <div class="col-md-4">
+    <div class="col-md-3">
     <div  style="margin:10px;width:220px;">
                 <div class="our-team">
                     <div class="pic">
@@ -26,7 +26,7 @@
      </div>
     </div>
    
-     <div class="col-md-4">
+     <div class="col-md-3">
        <div style="margin:10px;width:220px;">
                 <div class="our-team">
                     <div class="pic">
@@ -46,7 +46,7 @@
      </div>
      </div>
    
-     <div class="col-md-4">
+     <div class="col-md-3">
        <div  style="margin:10px;width:220px;">
                 <div class="our-team">
                     <div class="pic">
@@ -65,11 +65,7 @@
                 </div>
      </div>
      </div>
-   </div>
-
-   <div class="row" style="display:flex;flex-direction:row;justify-content:space-between;margin-left:12%;">
-
-   <div class="col-md-6">
+     <div class="col-md-3">
    <div style="margin:10px;width:220px;">
                 <div class="our-team">
                     <div class="pic">
@@ -92,8 +88,20 @@
    
    </div>
 
+   </div>
+   <div class="row">
+   <strong style=" display:flex;
+  font-size:25px;
+  font-style: italic;
+  color: #696592;justify-content:center!important;flex-direction:row;margin-left:38%;">MEDIA RELATIONS</strong>
    
-   <div class="col-md-6">
+   </div>
+  
+   <div class="row"  style="display:flex;flex-direction:row;justify-content:center;">
+
+
+   <div class="">
+  
    <div style="margin:10px;width:220px;">
                 <div class="our-team">
                     <div class="pic">
@@ -115,6 +123,25 @@
    
    
    </div>
+   <div class="">
+       <div  style="margin:10px;width:220px;">
+                <div class="our-team">
+                    <div class="pic">
+                        <img src="https://drive.google.com/uc?id=1IpkZtWJfsZ7zicXpI1fBhOeZupb0oo6S">
+                        <ul class="social">
+                            <li><a href="#" class="fa fa-facebook"></a></li>
+                            <!-- <li><a href="#" class="fa fa-twitter"></a></li> -->
+                            <li><a href="#" class="fa fa-instagram"></a></li>
+                            <li><a href="#" class="fa fa-linkedin"></a></li>
+                        </ul>
+                    </div>
+                    <div class="team-content">
+                        <h3 class="title">usha kumari</h3>
+                        <!-- <span class="post">Web Developer</span> -->
+                    </div>
+                </div>
+     </div>
+     </div>
    
    
    </div>

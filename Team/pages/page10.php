@@ -9,7 +9,7 @@
  <div  style="margin:10px;width:220px;">
              <div class="our-team">
                  <div class="pic">
-                     <img src="https://drive.google.com/uc?id=19qkFRZQTLTEDxKCRvDWs-Vr1vnrYe7RX">
+                     <img src="https://drive.google.com/uc?id=1LdwC9yY0FF4nj73RL_3xUPQVRiZJ7IhE">
                      <ul class="social">
                          <li><a href="#" class="fa fa-facebook"></a></li>
                          <!-- <li><a href="#" class="fa fa-twitter"></a></li> -->
@@ -18,7 +18,7 @@
                      </ul>
                  </div>
                  <div class="team-content">
-                     <h3 class="title">Dheeraj Kumar Singh</h3>
+                     <h3 class="title">Sandeep Yadav</h3>
                      <!-- <span class="post">Web Developer</span> -->
                  </div>
              </div>

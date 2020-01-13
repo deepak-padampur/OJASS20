@@ -40,7 +40,7 @@
                      </ul>
                  </div>
                  <div class="team-content">
-                      <h3 class="title">Onkar </h3>
+                      <h3 class="title">Onkar kumar </h3>
                      <span class="post">Technical Secretary</span>
                  </div>
              </div>
@@ -106,7 +106,7 @@
                      </ul>
                  </div>
                  <div class="team-content">
-                     <h3 class="title">P C Prakash</h3>
+                     <h3 class="title">P.Chaitanya Prakash</h3>
                      <span class="post">Joint Secretary</span>
                  </div>
              </div>
@@ -127,7 +127,7 @@
                      </ul>
                  </div>
                  <div class="team-content">
-                     <h3 class="title">Rishikesh </h3>
+                     <h3 class="title">Rishikesh</h3>
                      <span class="post">Joint Technical Secretary</span>
                  </div>
              </div>
@@ -135,7 +135,7 @@
   
 </div>
 </div>
-  <div class="row" style="display:flex;flex-direction:row;justify-content:space-around;margin-left:10%;">
+  <div class="row" style="display:flex;flex-direction:row;justify-content:space-between;">
     
  <div class="col-md-4">
  <div  style="margin:10px;width:220px;">
@@ -150,8 +150,8 @@
                      </ul>
                  </div>
                  <div class="team-content">
-                     <h3 class="title">Anurag </h3>
-                     <span class="post">Treasurer</span>
+                     <h3 class="title">Anurag kumar </h3>
+                     <span class="post">Finance secretary</span>
                  </div>
              </div>
   </div>
@@ -170,7 +170,7 @@
                      </ul>
                  </div>
                  <div class="team-content">
-                     <h3 class="title">D Ganesh</h3>
+                     <h3 class="title">Dheeravath Ganesh</h3>
                      <span class="post">Executive Secretary</span>
                  </div>
              </div>
@@ -181,7 +181,7 @@
     <div  style="margin:10px;width:220px;">
              <div class="our-team">
                  <div class="pic">
-                     <img src="https://drive.google.com/uc?id=19qkFRZQTLTEDxKCRvDWs-Vr1vnrYe7RX">
+                     <img src="https://drive.google.com/uc?id=1JotKoYOGpmVuuh0csCu6-PKwVSfRmCXu">
                      <ul class="social">
                          <li><a href="#" class="fa fa-facebook"></a></li>
                          <!-- <li><a href="#" class="fa fa-twitter"></a></li> -->
@@ -190,7 +190,7 @@
                      </ul>
                  </div>
                  <div class="team-content">
-                     <h3 class="title">Akshay  </h3>
+                     <h3 class="title">Akshay kumar  </h3>
                      <span class="post">Executive Secretary</span>
                  </div>
              </div>

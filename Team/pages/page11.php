@@ -3,13 +3,13 @@
 <link rel="stylesheet" href="style.css">
 
   
-  <div class="row" style="display:flex;flex-direction:row;justify-content:space-between;">
+<div class="row" style="display:flex;flex-direction:row;justify-content:space-between;">
     
- <div class="col-md-4">
+ <div class="col-md-3">
  <div  style="margin:10px;width:220px;">
              <div class="our-team">
                  <div class="pic">
-                     <img src="https://drive.google.com/uc?id=1rOoqZd3KJfDB602YtdGrgNI3aVnFu-c0">
+                     <img src="https://drive.google.com/uc?id=1H99ISkPUFuA-BIbtuXUSfs46LaJlgrCj">
                      <ul class="social">
                          <li><a href="#" class="fa fa-facebook"></a></li>
                          <!-- <li><a href="#" class="fa fa-twitter"></a></li> -->
@@ -25,7 +25,7 @@
   </div>
  </div>
 
-  <div class="col-md-4">
+  <div class="col-md-3">
     <div style="margin:10px;width:220px;">
              <div class="our-team">
                  <div class="pic">
@@ -45,7 +45,7 @@
   </div>
   </div>
 
-  <div class="col-md-4">
+  <div class="col-md-3">
     <div  style="margin:10px;width:220px;">
              <div class="our-team">
                  <div class="pic">
@@ -59,6 +59,26 @@
                  </div>
                  <div class="team-content">
                      <h3 class="title">Parwez Akhtar</h3>
+                     <!-- <span class="post">Web Developer</span> -->
+                 </div>
+             </div>
+  </div>
+  </div>
+
+  <div class="col-md-3">
+    <div  style="margin:10px;width:220px;">
+             <div class="our-team">
+                 <div class="pic">
+                     <img src="https://drive.google.com/uc?id=1rOoqZd3KJfDB602YtdGrgNI3aVnFu-c0">
+                     <ul class="social">
+                         <li><a href="#" class="fa fa-facebook"></a></li>
+                         <!-- <li><a href="#" class="fa fa-twitter"></a></li> -->
+                         <li><a href="#" class="fa fa-instagram"></a></li>
+                         <li><a href="#" class="fa fa-linkedin"></a></li>
+                     </ul>
+                 </div>
+                 <div class="team-content">
+                     <h3 class="title">Pranathi</h3>
                      <!-- <span class="post">Web Developer</span> -->
                  </div>
              </div>

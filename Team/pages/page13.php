@@ -9,7 +9,7 @@
  <div  style="margin:10px;width:220px;">
              <div class="our-team">
                  <div class="pic">
-                     <img src="https://drive.google.com/uc?id=19qkFRZQTLTEDxKCRvDWs-Vr1vnrYe7RX">
+                     <img src="https://drive.google.com/uc?id=1gSYHc8Q6TVTlDn_CJSGQwiH1Uk4tvjuL">
                      <ul class="social">
                          <li><a href="#" class="fa fa-facebook"></a></li>
                          <!-- <li><a href="#" class="fa fa-twitter"></a></li> -->
@@ -29,12 +29,11 @@
     <div style="margin:10px;width:220px;">
              <div class="our-team">
                  <div class="pic">
-                     <img src="https://drive.google.com/uc?id=1gSYHc8Q6TVTlDn_CJSGQwiH1Uk4tvjuL">
+                     <img src="https://drive.google.com/uc?id=1PAwBlnsbweBX6jHw57rK9li9LA5M13VB">
                      <ul class="social">
                          <li><a href="#" class="fa fa-facebook"></a></li>
                          <!-- <li><a href="#" class="fa fa-twitter"></a></li> -->
-                         <li><a href="#" class="fa fa-instagram"><<link rel="stylesheet" type="text/css" href="slick/slick.css" />
-<link rel="stylesheet" type="text/css" href="slick/slick-theme.css" />/a></li>
+                         <li><a href="#" class="fa fa-instagram"></a></li>
                          <li><a href="#" class="fa fa-linkedin"></a></li>
                      </ul>
                  </div>

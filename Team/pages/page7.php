@@ -50,7 +50,7 @@
        <div  style="margin:10px;width:220px;">
                 <div class="our-team">
                     <div class="pic">
-                        <img src="https://drive.google.com/uc?id=19qkFRZQTLTEDxKCRvDWs-Vr1vnrYe7RX">
+                        <img src="https://drive.google.com/uc?id=1yIC9vu7nMZuSiP-GIkQSLiPwrLI61gRo">
                         <ul class="social">
                             <li><a href="#" class="fa fa-facebook"></a></li>
                             <!-- <li><a href="#" class="fa fa-twitter"></a></li> -->

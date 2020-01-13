@@ -820,13 +820,13 @@
 
         <?php 
         
-         // include('./Team/team.php');  
+         include('./Team/team.php');  
         ?>
-        <div style="text-align:center;">
+        <!-- <div style="text-align:center;">
           <h1 style="text-align:center;">
             To be updated soon...
           </h1>
-        </div>
+        </div> -->
 
       </div>
     </section><!-- #team -->

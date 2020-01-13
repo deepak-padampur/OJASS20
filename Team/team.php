@@ -202,7 +202,7 @@
                       <div class="col-md-15 col-lg-15 team__members" id="1">
                       <div class="userProfile" >
                         <figure class="userProfile__thumbnail">
-                          <img src="Team/Images/core.svg " width="500px"  height="500px" alt="Photo" class="userProfile__image">
+                          <img src="Team/Images/867D89C3.png" width="500px"  height="500px" alt="Photo" class="userProfile__image">
 
                           
                         </figure>
@@ -214,7 +214,7 @@
                       <div class="col-md-15 col-lg-15 team__members" id="2">
                           <div class="userProfile"  >
                         <figure class="userProfile__thumbnail">
-                          <img src="Team/Images/core.svg " alt="Photo"  class="userProfile__image">
+                          <img src="Team/Images/D527174F.png" alt="Photo"  class="userProfile__image">
                         </figure>
                       
                 
@@ -223,7 +223,7 @@
                       <div class="col-md-15 col-lg-15 team__members" id="3">
                           <div class="userProfile"  >
                         <figure class="userProfile__thumbnail">
-                          <img src="Team/Images/core.svg " alt="Photo"  class="userProfile__image">
+                          <img src="Team/Images/Ojass_20_corporate.svg" alt="Photo"  class="userProfile__image">
                         </figure>
                       
                 
@@ -232,7 +232,7 @@
                       <div class="col-md-15 col-lg-15 team__members" id="4">
                           <div class="userProfile"  >
                         <figure class="userProfile__thumbnail">
-                          <img src="Team/Images/core.svg" alt="Photo" class="userProfile__image">
+                          <img src="Team/Images/C1BCA553.png" alt="Photo" class="userProfile__image">
                         </figure>
                       
                 
@@ -241,7 +241,7 @@
                       <div class="col-md-15 col-lg-15 team__members" id="5">
                           <div class="userProfile"  >
                         <figure class="userProfile__thumbnail">
-                          <img src="Team/Images/core.svg" alt="Photo" class="userProfile__image">
+                          <img src="Team/Images/ezgif.com-gif-maker (2).png" alt="Photo" class="userProfile__image">
                         </figure>
                       
                 
@@ -253,7 +253,7 @@
                     <div class="col-md-3 team__members" id=6>
                       <div class="userProfile"  >
                         <figure class="userProfile__thumbnail">
-                          <img src="Team/Images/core.svg" alt="Photo" class="userProfile__image">
+                          <img src="Team/Images/B26CE425.png" alt="Photo" class="userProfile__image">
                         </figure>
                       
                 
@@ -262,7 +262,7 @@
                     <div class="col-md-3 team__members" id="7">
                       <div class="userProfile"  >
                         <figure class="userProfile__thumbnail">
-                          <img src="Team/Images/core.svg" alt="Photo" class="userProfile__image">
+                          <img src="Team/Images/Ojass_20_event_managment.svg" alt="Photo" class="userProfile__image">
                         </figure>
                       
                 
@@ -271,7 +271,7 @@
                     <div class="col-md-3 team__members" id="8">
                       <div class="userProfile"  >
                         <figure class="userProfile__thumbnail">
-                          <img src="Team/Images/core.svg" alt="Photo" class="userProfile__image">
+                          <img src="Team/Images/Ojass_20_logistics_and_transport.svg" alt="Photo" class="userProfile__image">
                         </figure>
                       
                 
@@ -280,7 +280,7 @@
                     <div class="col-md-3 team__members" id="9">
                         <div class="userProfile"  >
                         <figure class="userProfile__thumbnail">
-                          <img src="Team/Images/core.svg" alt="Photo" class="userProfile__image">
+                          <img src="Team/Images/B500D975.png" alt="Photo" class="userProfile__image">
                         </figure>
                       
                 
@@ -294,7 +294,7 @@
                       <div class="col-md-15 col-lg-15 team__members" id="10">
                           <div class="userProfile"  >
                         <figure class="userProfile__thumbnail">
-                          <img src="Team/Images/core.svg" alt="Photo" class="userProfile__image">
+                          <img src="Team/Images/Ojass_20_workshop_planning.svg" alt="Photo" class="userProfile__image">
                         </figure>
                       
                 
@@ -303,7 +303,7 @@
                       <div class="col-md-15 col-lg-15 team__members" id="11">
                           <div class="userProfile"  >
                         <figure class="userProfile__thumbnail">
-                          <img src="Team/Images/core.svg" alt="Photo" class="userProfile__image">
+                          <img src="Team/Images/Ojass_20_decoration.svg" alt="Photo" class="userProfile__image">
                         </figure>
                       
                 
@@ -312,7 +312,7 @@
                       <div class="col-md-15 col-lg-15 team__members" id="12">
                           <div class="userProfile"  >
                         <figure class="userProfile__thumbnail">
-                          <img src="Team/Images/core.svg" alt="Photo" class="userProfile__image">
+                          <img src="img/rellax/SVG/Ojass_20_app_&_web.svg" alt="Photo" class="userProfile__image">
                         </figure>
                       
                 
@@ -321,7 +321,7 @@
                       <div class="col-md-15 col-lg-15 team__members" id="13">
                           <div class="userProfile"  >
                         <figure class="userProfile__thumbnail">
-                          <img src="Team/Images/core.svg" alt="Photo" class="userProfile__image">
+                          <img src="Team/Images/10AAA313.png" alt="Photo" class="userProfile__image">
                         </figure>
                       
                 
@@ -330,7 +330,7 @@
                       <div class="col-md-15 col-lg-15 team__members" id="14">
                           <div class="userProfile"  >
                         <figure class="userProfile__thumbnail">
-                          <img src="Team/Images/core.svg" alt="Photo" class="userProfile__image">
+                          <img src="Team/Images/5BDB90AB.png" alt="Photo" class="userProfile__image">
                         </figure>
                       
                 
@@ -362,7 +362,7 @@
                   </div>
                   <div id="sec3" style="display: none;width:900px;justify-content:center;margin:4% auto; height:auto;text-align:center;" >
                     <button class="back"><i style="font-size:28px;" class="fa fa-arrow-left" aria-hidden="true"></i></button>
-                   <strong class="team-name"> CORPORATE AFFAIRS</strong>
+                   <strong class="team-name"> CORPORATE RELATIONS & MARKETING</strong>
                     <?php
                    include'./Team/pages/page3.php';
                    ?>
@@ -370,7 +370,7 @@
                   <div id="sec4" style="display: none;width:900px;justify-content:center;margin:4% auto; height:auto;text-align:center;" >
                     <button class="back"><i style="font-size:28px;" class="fa fa-arrow-left" aria-hidden="true"></i></button>
 
-                   <strong class="team-name">PUBLIC RELATIONS & MEDIA</strong>
+                   <strong class="team-name">PUBLIC RELATIONS</strong>
                    <?php
                    include'./Team/pages/page4.php';
                    ?>
