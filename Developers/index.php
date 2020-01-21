@@ -30,15 +30,7 @@
                   <img src="pic-2 (1).png" alt="Arun" class="cloud9-item">
                   
                   <img src="pic-3 (1).png" alt="Udit" class="cloud9-item"> 
-                  <!-- <img src="Blake.png" alt="Blake" class="cloud9-item">
-                  <img src="Angela.png" alt="Angela" class="cloud9-item">
-                  <img src="Claire.png" alt="Claire" class="cloud9-item">
-                  <img src="Blake.png" alt="Blake" class="cloud9-item">
-                  <img src="Angela.png" alt="Angela" class="cloud9-item">
-                  <img src="Claire.png" alt="Claire" class="cloud9-item">
-                  <img src="Blake.png" alt="Blake" class="cloud9-item">
-                  <img src="Angela.png" alt="Angela" class="cloud9-item">
-                  <img src="Claire.png" alt="Claire" class="cloud9-item"> -->
+                  
             </div>
 
             <p id="item-title">&nbsp;</p>

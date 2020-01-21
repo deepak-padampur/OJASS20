@@ -920,8 +920,8 @@
     <!--==========================
       Director & PI Section ````
     ============================-->
-
-    <section>
+<!-- 
+    <section class="section-bg parallax">
     <header class="section-header">
           <h3 class="section-title">DIRECTOR & PROFESSOR-INCHARGE</h3>
 
@@ -958,7 +958,7 @@
            </div>
        </div>
    </div>
-    </div>
+    </div> -->
 
 
 
@@ -971,7 +971,7 @@
     <!--==========================
       Team Section
     ============================-->
-    <section id="team" class="section-bg parallax" style="z-index:1024;
+    <section id="team" class="parallax section-bg" style="z-index:1024;
      
     ">
       <!-- min-height:100vh; Add this to above style attribute -->
@@ -999,7 +999,7 @@
     <!--==========================
       Awards and Recognition
     ============================-->
-   <section id="award">
+   <section id="award" class="">
 
       <div class="container " style="text-align: center;">
 
@@ -1099,7 +1099,7 @@
     ============================-->
 
     <section id="clients" class="wow fadeInUp parallax section-bg">
-      <div class="container section-bg">
+      <div class="container ">
 
         <header class="section-header">
           <h3>OUR SPONSORS</h3>
