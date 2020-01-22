@@ -281,7 +281,7 @@
 
 
 
-  <section id="intro" class="parallax clearfix" style="margin-bottom:5%;">
+  <section id="intro" class="parallax clearfix" style="margin-bottom:6%;">
     <div class="container-fluid  h-100">
       <div class="row justify-content-center align-self-center fullscreen-bg" style="text-align:center;">
         <!-- <div class="col-md-6 intro-info order-md-first order-last" style="margin: 2% 0 0 0;">
