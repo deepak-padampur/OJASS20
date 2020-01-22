@@ -20,7 +20,7 @@
   <meta charset="utf-8">
   <title>OJASS'20 | NIT JSR</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-
+  <link rel="shortcut icon" href="./img/Official_black.png" type="image/x-icon">
   <!-- Favicons -->
   <!-- <link href="img/favicon.png" rel="icon"> -->
 
