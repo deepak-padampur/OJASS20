@@ -6,7 +6,7 @@
 <style>
 
 .date {
-    font-size: 19px;
+    font-size: 20px;
     margin-top: -10px !important;
     /* font-family: 'Lobster', cursive; */
 

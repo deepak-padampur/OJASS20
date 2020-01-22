@@ -1059,7 +1059,7 @@
             <div class="" style="">
               <div class="">
                 <div >
-                  <img src="./img/patronage/sayen.png" width=200px height="200px">
+                  <img src="./img/patronage/sayen.png" width=180px height="200px">
 
                 </div>
                 <div style="display:flex;justify-content:center;">
