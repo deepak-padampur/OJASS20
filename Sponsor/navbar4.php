@@ -1,4 +1,25 @@
 
+
+<link href="https://fonts.googleapis.com/css?family=Great+Vibes|Lexend+Giga|Lobster&display=swap" rel="stylesheet"> 
+
+
+<style>
+
+.date {
+    font-size: 19px;
+    margin-top: -10px !important;
+    /* font-family: 'Lobster', cursive; */
+
+
+    font-family: 'Lobster', cursive;
+    /* font-family: 'Lexend Giga', sans-serif; */
+    /* font-family: 'Great Vibes', cursive; */
+
+    color: black;
+
+}
+</style>
+
  <!--==========================
   Header
   ============================-->
@@ -23,13 +44,15 @@
         <a href="#header" class="scrollto"><img src="img/logo.png" alt="" class="img-fluid"></a>
       </div> -->
        <div class=" float-left ml-4">
-         <a href="" class="scrollto"><img src="../img/logo-black-2.png" alt="" class="" height="70px" style="margin-top:-15px;"></a>
+         <a href="" class="scrollto"><img src="../img/logo-black-2.png" alt="" class="" height="70px" style="margin-top:-15px;">
+         <span class="date">  28, 29 Feb - 1 March' 2020 </span> 
+         </a>
      </div>
 
       <nav class="main-nav float-right d-none d-lg-block">
         <ul>
           <li ><a href="../index.php" target="_blank">Home</a></li>
-          <li><a href="../index.php#about" target="_blank">About Us</a></li>
+          <li><a href="../index.php#about" target="_blank">Theme</a></li> 
           <li><a href="../index.php#services">Events</a></li>
           
          <li><a href="../index.php#why-us" target="_blank">Celebrities</a></li>

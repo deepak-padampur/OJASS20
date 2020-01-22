@@ -334,7 +334,7 @@
               </a>
               </div>
               <h4 class="title">
-              <a href="../Events/EventDetails.php?branch=Vishwa Code Genesis" target="_blank">VishwaCodegenesis</a></h4>
+              <a href="../Events/EventDetails.php?branch=Vishwa Code Genesis" target="_blank">Vishwa Code Genesis</a></h4>
               <!-- <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p> -->
             </div>
           </div>
