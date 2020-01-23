@@ -678,6 +678,8 @@
           <img class="guest-img"  src="img/guest/guest1.jpg" alt=""  style="padding:10%!important;">
           <img class="guest-img" src="img/guest/guest2.jpg" alt="" style="padding:10%!important;">
           <img class="guest-img" src="img/guest/guest3.jpg" alt="" style="padding:10%!important;">
+          <img class="guest-img" src="img/guest/guest4.jpg" alt="" style="padding:10%!important;">
+          <img class="guest-img" src="img/guest/guest5.jpeg" alt="" style="padding:10%!important;">
           <!-- <img src="img/guest/guest1.jpg" alt="">
           <img src="img/guest/guest2.jpg" alt="">
           <img src="img/guest/guest3.jpg" alt=""> -->
