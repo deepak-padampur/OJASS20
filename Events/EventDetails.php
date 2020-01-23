@@ -7,7 +7,8 @@
     ?> | OJASS'20</title>
   <meta charset="utf-8">
   <!--logo ojass-->
-  <!-- <link rel="shortcut icon" href="../img/small_black.png"> -->
+
+  <link rel="shortcut icon" href="../img/Official_black.png" type="image/x-icon">
   <!--logo-->
    <!-- <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"> -->
   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">

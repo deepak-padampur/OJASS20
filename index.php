@@ -20,7 +20,7 @@
   <meta charset="utf-8">
   <title>OJASS'20 | NIT JSR</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-
+  <link rel="shortcut icon" href="./img/Official_black.png" type="image/x-icon">
   <!-- Favicons -->
   <!-- <link href="img/favicon.png" rel="icon"> -->
 
@@ -41,7 +41,8 @@
   <link rel="stylesheet" href="lib/flipclock/flipclock.css">
 
   <!-- Main Stylesheet File -->
-  <link href="css/style.css" rel="stylesheet">
+  <link href="./css/style.css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Great+Vibes|Lexend+Giga|Lobster&display=swap" rel="stylesheet"> 
 
 </head>
 
@@ -172,6 +173,10 @@
   @media only screen and (max-width: 990px){
       .our-dir{ margin-bottom: 30px; }
   }
+  
+  .pat{
+    padding:3%;
+  }
 </style>
 
 
@@ -218,13 +223,14 @@
         <a href="#header" class="scrollto"><img src="img/logo.png" alt="" class="img-fluid"></a>
       </div> -->
       <div class=" float-left ml-4">
-        <a href="" class="scrollto"><img src="img/logo-black-2.png" alt="" class="" height="70px" style="margin-top:-15px;"></a>
+        <a href="" class="scrollto"><img src="img/logo-black-2.png" alt="" class="" height="70px" style="margin-top:-15px;"><span class="date">  28, 29 Feb - 1 March' 2020 </span> </a>
+        
       </div>
 
       <nav class="main-nav float-right d-none d-lg-block">
         <ul>
           <li class="active"><a href="#intro">Home</a></li>
-          <li><a href="#about">About Us</a></li>
+          <li><a href="#about">Theme</a></li>
           <li><a href="#services">Events</a></li>
 
           <li><a href="#why-us">Celebrities</a></li>
@@ -275,7 +281,7 @@
 
 
 
-  <section id="intro" class="parallax clearfix" style="margin-bottom:7%;">
+  <section id="intro" class="parallax clearfix" style="margin-bottom:6%;">
     <div class="container-fluid  h-100">
       <div class="row justify-content-center align-self-center fullscreen-bg" style="text-align:center;">
         <!-- <div class="col-md-6 intro-info order-md-first order-last" style="margin: 2% 0 0 0;">
@@ -345,7 +351,9 @@
         </div> -->
 
           <div class="col-lg-4 col-md-5" style="margin-left:2%;">
-            <div class="about-img">
+          <br><br>
+            <div class="about-img mt-5" >
+            
             <video playsinline controls loop preload="auto" width="100%">
               <source src="img/theme.mp4" type="video/mp4">
             </video>
@@ -360,7 +368,7 @@
 
           <div class="col-lg-6 col-md-5">
             <div class="about-content">
-              <h2>ABOUT US</h2>
+              <h2>CELEBRATING INDIC ERUDITION</h2>
               <h3 class=" wow slideInRight"><span style="font-size: 25px;">O</span>jass is the Annual Techno-Management
                 fest of NIT Jamshedpur.</h3>
               <p class="wow fadeIn" data-wow-delay="1s" style="text-align: justify;width:100%;"> Started in the year
@@ -1020,7 +1028,7 @@
             <div class="" style="">
               <div>
                 <div>
-                  <img src="./img/patronage/digital.jpg">
+                  <img src="./img/patronage/di.png" width=250px>
 
                 </div>
                 <div class="team-content" style="display:flex;justify-content:center;">
@@ -1038,7 +1046,7 @@
             <div class="" style="">
               <div class="">
                 <div >
-                  <img src="./img/patronage/cee.jpg">
+                  <img src="./img/patronage/cee.jpg" width=250px>
 
                 </div>
                 <div style="display:flex;justify-content:center;">
@@ -1053,7 +1061,7 @@
             <div class="" style="">
               <div class="">
                 <div >
-                  <img src="./img/patronage/sayen.png">
+                  <img src="./img/patronage/sayen.png" width=180px height="200px">
 
                 </div>
                 <div style="display:flex;justify-content:center;">
@@ -1075,7 +1083,7 @@
             <div class="">
               <div class="">
                 <div >
-                  <img src="./img/patronage/unesco.jpg">
+                  <img src="./img/patronage/unesco.jpg" width=250px>
                   <div style="display:flex;justify-content:center;">
                     <strong>
                       UNESCO for the promotion of technical knowledge and education.</strong>

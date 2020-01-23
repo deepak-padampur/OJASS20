@@ -1937,3 +1937,16 @@ transform: scale(1.1);
 .webteam{
   text-decoration: none;
 }
+.date {
+    font-size: 20px;
+    margin-top: -10px !important;
+    /* font-family: 'Lobster', cursive; */
+
+
+    font-family: 'Lobster', cursive;
+    /* font-family: 'Lexend Giga', sans-serif; */
+    /* font-family: 'Great Vibes', cursive; */
+
+    color: black;
+
+}
