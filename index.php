@@ -872,52 +872,74 @@
           </div> -->
           <center style="text-align:center;margin:0 auto;">
         <div class="row portfolio-container ">
-          <div class="col-lg-4 col-md-4 portfolio-item filter-app">
+          <div class="col-lg-3 col-md-3 portfolio-item filter-app">
             <div class="portfolio-wrap">
               <img src="img/workshop/workshop1.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4><a href="#">AUTONOMOUS ROBOTICS</a></h4>
+                <h6><a href="#">AUTONOMOUS ROBOTICS</a></h6>
                 <!-- <p>App</p> -->
                 <div>
                   <a href="img/workshop/workshop1.jpg" data-lightbox="portfolio" data-title="" class="link-preview"
                     title="Preview"><i class="ion ion-eye"></i></a>
-                  <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+                  <!-- <i href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a> -->
                 </div>
               </div>
             </div>
           </div>
 
           
-          <div class="col-lg-4 col-md-4 portfolio-item filter-app">
+          <div class="col-lg-3 col-md-3 portfolio-item filter-app">
             <div class="portfolio-wrap">
               <img src="img/workshop/workshop2.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4><a href="#">INTERNET OF THINGS</a></h4>
+                <h6><a href="#">INTERNET OF THINGS</a></h6>
                 <!-- <p>App</p> -->
                 <div>
                   <a href="img/workshop/workshop2.jpg" data-lightbox="portfolio" data-title="" class="link-preview"
                     title="Preview"><i class="ion ion-eye"></i></a>
-                  <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+                  <!-- <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a> -->
                 </div>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-4 portfolio-item filter-app">
+          <div class="col-lg-3 col-md-3 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="img/workshop/workshop1.jpg" class="img-fluid" alt="">
+              <img src="img/workshop/workshop3.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4><a href="#">INTERNET OF THINGS</a></h4>
+                <h6><a href="#">LINE FOLLOWER ROBOTICS</a></h6>
                 <!-- <p>App</p> -->
                 <div>
-                  <a href="img/workshop/workshop1.jpg" data-lightbox="portfolio" data-title="" class="link-preview"
+                  <a href="img/workshop/workshop3.jpg" data-lightbox="portfolio" data-title="" class="link-preview"
                     title="Preview"><i class="ion ion-eye"></i></a>
-                  <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+                  <!-- <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-3 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="img/workshop/workshop4.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h6><a href="#">MANAUL ROBOTICS</a></h6>
+                <!-- <p>App</p> -->
+                <div>
+                  <a href="img/workshop/workshop4.jpg" data-lightbox="portfolio" data-title="" class="link-preview"
+                    title="Preview"><i class="ion ion-eye"></i></a>
+                  <!-- <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a> -->
                 </div>
               </div>
             </div>
           </div>
         </div>
+        <!-- <div class="owl-carousel guest-carousel">
+          <img class="guest-img"  src="img/workshop/workshop1.jpg" alt=""  style="padding:10%!important;">
+          <img class="guest-img" src="img/workshop/workshop2.jpg" alt="" style="padding:10%!important;">
+          <img class="guest-img" src="img/workshop/workshop3.jpg" alt="" style="padding:10%!important;">
+          <img class="guest-img" src="img/workshop/workshop4.jpg" alt="" style="padding:10%!important;">
+          <img class="guest-img" src="img/guest/guest5.jpeg" alt="" style="padding:10%!important;">
+         
+        </div> -->
         </center>
 
       </div>
