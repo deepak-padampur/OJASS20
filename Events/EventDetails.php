@@ -669,8 +669,9 @@
                         
                    
                         <div class="txtdetail">
+
                           <!-- Condition for normal Prizes -->
-                    <ul ng-if="!event.prize.Firstyear && !event.prize.firstyear && event.name!='CodeMania' && event.name!='CODESENSE'">
+                    <ul ng-if="!event.prize.Firstyear && !event.prize.firstyear && event.name!='CodeMania' && event.name!='CODESENSE' && event.name!=`FIFA'19` ">
                       <li ng-repeat="(key,val) in event.prize">{{key | capitalize}}: &#x20b9; {{val}}</li>
                     </ul>
                     
@@ -702,13 +703,17 @@
                     <div ng-if="event.prize.firstyear">
 
                       <b ng-if="event.name=='Hack-De-Science'">Web</b>
-                      <b ng-if="event.name!='Hack-De-Science'">First year</b>: <br>
+
+                      <b ng-if="event.name==`FIFA'19`">1v1</b>: <br>
+
+                      <b ng-if="event.name!='Hack-De-Science' && event.name!=`FIFA'19` ">First year</b>: <br>
                       <li ng-repeat="(key,val) in event.prize.firstyear">
                         {{key | capitalize}} : &#x20b9; {{val}}
                       </li>
 
                       <b ng-if="event.name=='Hack-De-Science'">App</b>
-                      <b ng-if="event.name!='Hack-De-Science'">Second year</b>: <br>
+                      <b ng-if="event.name==`FIFA'19`">2v2</b>: <br>
+                      <b ng-if="event.name!='Hack-De-Science' && event.name!=`FIFA'19` ">Second year</b>: <br>
                       <li ng-repeat="(key,val) in event.prize.secondyear" >
                         
                         	{{key | capitalize}} : &#x20b9; {{val}}

@@ -67,7 +67,8 @@ angular.module('eventApp',['ngSanitize','ngAnimate'])
 					}
 				}
 				for(var i in e){
-				    var prizes = e[i].prize
+					var prizes = e[i].prize
+					console.log(prizes);
 					for(var j in prizes){
 						var prizemoney= prizes[j];
 						if(prizemoney==0){
