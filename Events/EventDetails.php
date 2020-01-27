@@ -876,7 +876,7 @@
     
     console.log('screen is less than 1080')
    
-
+    element.classList.remove("section_banner")
     element.classList.add("res_control");
     console.log(element.classList);
     document.querySelector('#res_sol2').classList.add("res_control2");
