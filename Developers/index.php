@@ -22,14 +22,14 @@
 <body>
       <div id="wrap">
             <div id="showcase">
-                  <!-- <img src="" alt="vivek" class="cloud9-item">
+                  <img style="height:250px;width:250px;" src="pic-5.png" alt="vivek" class="cloud9-item">
                 
-                  <img src="" alt="Deepak" class="cloud9-item"> -->
-                  <img src="pic -1 (1).png" alt="Nirupam" class="cloud9-item">
+                  <img style="height:250px;width:250px;" src="pic-4.png" alt="Deepak" class="cloud9-item">
+                  <img style="height:250px;width:250px;" src="pic -1 (1).png" alt="Nirupam" class="cloud9-item">
                  
-                  <img src="pic-2 (1).png" alt="Arun" class="cloud9-item">
+                  <img style="height:250px;width:250px;" src="pic-2 (1).png" alt="Arun" class="cloud9-item">
                   
-                  <img src="pic-3 (1).png" alt="Udit" class="cloud9-item"> 
+                  <img style="height:250px;width:250px;" src="pic-3 (1).png" alt="Udit" class="cloud9-item"> 
                   
             </div>
 
@@ -63,7 +63,7 @@
                   onLoaded: function() {
                         showcase.css( 'visibility', 'visible' )
                         showcase.css( 'display', 'none')
-                        showcase.fadeIn( 1500 )
+                        showcase.fadeIn( 3000 )
                   }
             })
 
