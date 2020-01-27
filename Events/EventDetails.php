@@ -496,11 +496,27 @@
         margin: 0;
         padding: 0;
       } */
-
+      .res_control{
+        transform:scale(0.8);
+      }
 
     </style>
 
 <!--- new style added------------------>
+
+<!-- for dealing with pixel lower than 1080p -->
+<script>
+  
+
+  var height =  window.screen.height * window.devicePixelRatio
+  console.log('height: ' + height);
+
+  if(height<1080){
+    var element = document.getElementById('home_section')
+    element.classList.add("res_control");
+  }
+
+</script>
 
 </head>
 <body ng-app="eventApp" style="color: #000;background-color:#f5f8fd">
@@ -525,11 +541,11 @@
     require('./navbar2.php')
     ?>
       </div>
-</header> 
+    </header> 
 
 
 
-<section style="overflow-x: hidden; height: inherit;margin-top:-45px;margin-left:65px;" id="home_section" class="section_banner section_gradiant3">
+<section style="overflow-x: hidden; height: inherit;margin-top:-45px;margin-left:65px;" id="home_section" class="section_banner section_gradiant3 ">
     <canvas id="banner_canvas" class="transparent_effect"></canvas>
       
     <a class="backtotop" href="#top"></a>
