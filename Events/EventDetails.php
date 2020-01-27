@@ -499,7 +499,9 @@
       .res_control{
         transform:scale(0.8);
       }
-
+      .res_control2{
+        margin-top:10%;
+      }
     </style>
 
 <!--- new style added------------------>
@@ -758,7 +760,7 @@
         </div>
       </div>
 
-        <div class="row" >
+        <div class="row" id="res_sol2">
           <div class="col-md-1"></div>
           <div class="col-md-9" style="position: fixed;bottom:30px;left:200px;">
             <br>
@@ -873,6 +875,7 @@
 
     element.classList.add("res_control");
     console.log(element.classList);
+    document.querySelector('#res_sol2').classList.add("res_control2");
   }
 
 </script>
