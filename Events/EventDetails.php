@@ -713,7 +713,7 @@
 
                       <b ng-if="event.name=='Hack-De-Science'">App</b>
                       <b ng-if="event.name=='FIFA\'19'">2v2</b>: <br>
-                      <b ng-if="event.name!='Hack-De-Science' && event.name!='FIFA\'19' ">Second year </b>: <br>
+                      <b ng-if="event.name!='Hack-De-Science' && event.name!='FIFA\'19' ">Second year : <br> </b>
                       <li ng-repeat="(key,val) in event.prize.secondyear" >
                         
                         	{{key | capitalize}} : &#x20b9; {{val}}
