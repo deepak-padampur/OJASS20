@@ -498,10 +498,13 @@
       } */
       .res_control{
         transform:scale(0.8);
-        margin-top:-8%;
+        margin-top:-9%;
       }
       .res_control2{
         margin-top:10%;
+      }
+      .section_banner{
+        margin-top:-45px;
       }
     </style>
 
@@ -537,7 +540,7 @@
 
 
 
-<section style="overflow-x: hidden; height: inherit;margin-top:-45px;margin-left:65px;" id="home_section" class="section_banner section_gradiant3 ">
+<section style="overflow-x: hidden; height: inherit;;margin-left:65px;" id="home_section" class="section_banner section_gradiant3 ">
     <canvas id="banner_canvas" class="transparent_effect"></canvas>
       
     <a class="backtotop" href="#top"></a>
