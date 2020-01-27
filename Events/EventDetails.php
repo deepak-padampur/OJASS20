@@ -505,18 +505,7 @@
 <!--- new style added------------------>
 
 <!-- for dealing with pixel lower than 1080p -->
-<script>
-  
 
-  var height =  window.screen.height * window.devicePixelRatio
-  console.log('height: ' + height);
-
-  if(height<1080){
-    var element = document.getElementById('home_section')
-    element.classList.add("res_control");
-  }
-
-</script>
 
 </head>
 <body ng-app="eventApp" style="color: #000;background-color:#f5f8fd">
@@ -868,6 +857,26 @@
 
     </script>
 
+<script>
+  
+
+  var height =  window.screen.height * window.devicePixelRatio
+  console.log('height: ' + height);
+  var element = document.querySelector('#home_section');
+  console.log(element);
+    console.log(element.classList);
+
+  if(height<1080){
+    
+    console.log('screen is less than 1080')
+   
+
+    element.classList.add("res_control");
+    console.log(element.classList);
+  }
+
+</script>
+
     <!-- Vendor Scripts -->
         
         <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular.min.js"></script>
@@ -892,3 +901,4 @@
 
 
 </html>
+
