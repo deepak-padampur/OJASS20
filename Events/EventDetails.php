@@ -501,7 +501,7 @@
         margin-top:-9%;
       }
       .res_control2{
-        margin-top:10%;
+        margin-top:11%;
       }
       .section_banner{
         margin-top:-45px;
