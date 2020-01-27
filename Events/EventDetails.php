@@ -498,6 +498,7 @@
       } */
       .res_control{
         transform:scale(0.8);
+        margin-top:-8%;
       }
       .res_control2{
         margin-top:10%;
