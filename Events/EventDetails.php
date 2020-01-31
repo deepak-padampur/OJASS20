@@ -682,7 +682,7 @@
                         <div class="txtdetail">
 
                           <!-- Condition for normal Prizes -->
-                    <ul ng-if="!event.prize.Firstyear && !event.prize.firstyear && event.name!='CodeMania' && event.name!='CODESENSE' && event.name!='FIFA\'19' ">
+                    <ul ng-if="!event.prize.Firstyear && !event.prize.firstyear && event.name!='CodeMania' && event.name!='CODESENSE' && event.name!='FIFA\'19' && event.name!='Hurdles Hunter' && event.name!='LENS VIEW' && event.name!='Film Chaupaal' && event.name!='Mad-Ad' && event.name!='Jumbo Films' && event.name!='360 Mania' && event.name!='Battleship' && event.name!='BOT-A MAZE' && event.name!='Kurukshetra' && event.name!='Mac Fifa'">
                       <li ng-repeat="(key,val) in event.prize">{{key | capitalize}}: &#x20b9; {{val}}</li>
                     </ul>
                     
@@ -706,7 +706,98 @@
                 		<!--<li ng-repeat="(key,val) in current.prize">{{key}}: &#x20b9;{{val}}</li>-->
                 	</ul>
                     
+                  <ul ng-if="event.name=='Hurdles Hunter'">
+                	    <li>First: &#x20b9;{{event.prize.first}}</li>
+                	    <li>Second: &#x20b9;{{event.prize.second}}</li>
+                	    <li>Third: &#x20b9;{{event.prize.third}}</li>
+                	    <li>Most innovative bot: &#x20b9;2000</li>
+                	    <b><li>Total: &#x20b9;{{event.prize.total}}</li></b>
+                		<!--<li ng-repeat="(key,val) in current.prize">{{key}}: &#x20b9;{{val}}</li>-->
+                	</ul>
 
+                  <ul ng-if="event.name=='360 Mania'">
+                	    <li>First: &#x20b9;{{event.prize.first}}</li>
+                	    <li>Second: &#x20b9;{{event.prize.second}}</li>
+                	    <li>Third: &#x20b9;{{event.prize.third}}</li>
+                	    <li>Most innovative bot: &#x20b9;{{event.prize.special}}</li>
+                	    <b><li>Total: &#x20b9;{{event.prize.total}}</li></b>
+                		<!--<li ng-repeat="(key,val) in current.prize">{{key}}: &#x20b9;{{val}}</li>-->
+                	</ul>
+
+                  <ul ng-if="event.name=='Battleship'">
+                	    <li>First: &#x20b9;{{event.prize.first}}</li>
+                	    <li>Second: &#x20b9;{{event.prize.second}}</li>
+                	    <li>Third: &#x20b9;{{event.prize.third}}</li>
+                	    <li>Most innovative bot: &#x20b9;{{event.prize.special}}</li>
+                	    <b><li>Total: &#x20b9;{{event.prize.total}}</li></b>
+                		<!--<li ng-repeat="(key,val) in current.prize">{{key}}: &#x20b9;{{val}}</li>-->
+                	</ul>
+
+                  <ul ng-if="event.name=='Mac Fifa'">
+                	    <li>First: &#x20b9;{{event.prize.first}}</li>
+                	    <li>Second: &#x20b9;{{event.prize.second}}</li>
+                	    <li>Third: &#x20b9;{{event.prize.third}}</li>
+                	    <li>Most innovative bot: &#x20b9;{{event.prize.special}}</li>
+                	    <b><li>Total: &#x20b9;{{event.prize.total}}</li></b>
+                		<!--<li ng-repeat="(key,val) in current.prize">{{key}}: &#x20b9;{{val}}</li>-->
+                	</ul>
+
+                  <ul ng-if="event.name=='BOT-A MAZE'">
+                	    <li>First: &#x20b9;{{event.prize.first}}</li>
+                	    <li>Second: &#x20b9;{{event.prize.second}}</li>
+                	    <li>Third: &#x20b9;{{event.prize.third}}</li>
+                	    <li>Most innovative bot: &#x20b9;{{event.prize.special}}</li>
+                	    <b><li>Total: &#x20b9;{{event.prize.total}}</li></b>
+                		<!--<li ng-repeat="(key,val) in current.prize">{{key}}: &#x20b9;{{val}}</li>-->
+                	</ul>
+
+                  <ul ng-if="event.name=='Kurukshetra'">
+                	    <li>First: &#x20b9;{{event.prize.first}}</li>
+                	    <li>Second: &#x20b9;{{event.prize.second}}</li>
+                	    <li>Third: &#x20b9;{{event.prize.third}}</li>
+                	    <li>Special event (2 vs 2): &#x20b9;6000 (For winning pair)</li>
+                	    <b><li>Total: &#x20b9;{{event.prize.total}}</li></b>
+                		<!--<li ng-repeat="(key,val) in current.prize">{{key}}: &#x20b9;{{val}}</li>-->
+                	</ul>
+
+                  <ul ng-if="event.name=='LENS VIEW'">
+                	    <li>First: &#x20b9;{{event.prize.first}}</li>
+                	    <li>Second: &#x20b9;{{event.prize.second}}</li>
+                	    <li>Third: &#x20b9;{{event.prize.third}}</li>
+                	    <li>Fourth: &#x20b9;1000</li>
+                	    <b><li>Total: &#x20b9;{{event.prize.total}}</li></b>
+                		<!--<li ng-repeat="(key,val) in current.prize">{{key}}: &#x20b9;{{val}}</li>-->
+                	</ul>
+
+                  <ul ng-if="event.name=='Film Chaupaal'">
+                	    <li>First: &#x20b9;{{event.prize.first}}</li>
+                	    <li>Second: &#x20b9;{{event.prize.second}}</li>
+                	    <li>Third: &#x20b9;{{event.prize.third}}</li>
+                	    <li>Best actor: &#x20b9;1500</li>
+                      <li>Best story: &#x20b9;1500</li>
+                      <li>Best editing: &#x20b9;1500</li>
+                      <li>Best cinematography: &#x20b9;1500</li>
+                      <li>Two consolation prizes each of: &#x20b9;1000</li>
+                	    <b><li>Total: &#x20b9;{{event.prize.total}}</li></b>
+                		<!--<li ng-repeat="(key,val) in current.prize">{{key}}: &#x20b9;{{val}}</li>-->
+                	</ul>
+
+                  <ul ng-if="event.name=='Mad-Ad'">
+                	    <li>First: &#x20b9;3500</li>
+                	    <li>Second: &#x20b9;2500</li>
+                	    <li>Third: &#x20b9;1500</li>
+                      <li>Fourth: &#x20b9;1000</li>
+                	    <b><li>Total: &#x20b9;8500</li></b>
+                		<!--<li ng-repeat="(key,val) in current.prize">{{key}}: &#x20b9;{{val}}</li>-->
+                	</ul>
+
+                  <ul ng-if="event.name=='Jumbo Films'">
+                      <li>First: &#x20b9;{{event.prize.first}}</li>
+                	    <li>Second: &#x20b9;{{event.prize.second}}</li>
+                	    <li>Two prizes worth: &#x20b9;1000</li>
+                	    <b><li>Total: &#x20b9;7000</li></b>
+                		<!--<li ng-repeat="(key,val) in current.prize">{{key}}: &#x20b9;{{val}}</li>-->
+                	</ul>
                     
 
                     <!-- Condition for WHO AM I (WHI) in Ciruit_House -->

@@ -161,7 +161,7 @@
               <!-- <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p> -->
             </div>
           </div>
-          <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-delay="0.2s" data-wow-duration="1.4s">
+          <!-- <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-delay="0.2s" data-wow-duration="1.4s">
             <div class="box">
               <div class="icon" style="background: #ecebff;">
               
@@ -171,9 +171,8 @@
               </div>
               <h4 class="title">
               <a href="../Events/EventDetails.php?branch=Exposicion" target="_blank">Exposicion</a></h4>
-              <!-- <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p> -->
             </div>
-          </div>
+          </div> -->
 
 
           <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">
@@ -296,6 +295,19 @@
               <!-- <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p> -->
             </div>
           </div>
+          <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
+            <div class="box">
+              <div class="icon" style="background: #eafde7;">
+              
+              <a href="../Events/EventDetails.php?branch=Vishwa Code Genesis" target="_blank">
+              <img src = "../img/eventsIcons/vishwacodegenesis.svg" height="140px" style="margin-left:-30px; margin-top:-40px;">
+              </a>
+              </div>
+              <h4 class="title">
+              <a href="../Events/EventDetails.php?branch=Vishwa Code Genesis" target="_blank">Vishwa Code Genesis</a></h4>
+              <!-- <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p> -->
+            </div>
+          </div>
           
           
           
@@ -327,7 +339,7 @@
             </div> -->
           </div>
           <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
-            <div class="box">
+            <!-- <div class="box">
               <div class="icon" style="background: #eafde7;">
               
               <a href="../Events/EventDetails.php?branch=Vishwa Code Genesis" target="_blank">
@@ -337,7 +349,7 @@
               <h4 class="title">
               <a href="../Events/EventDetails.php?branch=Vishwa Code Genesis" target="_blank">Vishwa Code Genesis</a></h4>
               <!-- <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p> -->
-            </div>
+            </div> -->
           </div>
           <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-delay="0.2s" data-wow-duration="1.4s">
             <!-- <div class="box">
