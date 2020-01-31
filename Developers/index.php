@@ -14,15 +14,42 @@
 
       <!-- Jquery CDN -->
       <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+      <script src="../lib/jquery/jquery.min.js"></script>
 
       <!-- Plugin  -->
       <script src="jquery.reflection.js"></script>
       <script src="jquery.cloud9carousel.js"></script>
+      <script src="../js/main.js"></script>
 </head>
 <body>
+            <div id="preloader">
+            <!-- <div id="loader-wrapper">
+            <div id="loading-center-absolute">
+                  <div class="object" id="object_four"></div>
+                  <div class="object" id="object_three"></div>
+                  <div class="object" id="object_two"></div>
+                  <div class="object" id="object_one"></div>
+            </div>
+            <div class="loader-section section-left"></div>
+            <div class="loader-section section-right"></div>
+
+            </div>
+            -->
+            <div style="text-align:center;">
+                  <br><br><br>
+                  <h1 style="text-align:center;">
+                  Loading ...
+                  </h1>
+                  <br><br><br><br>
+            </div>
+
+            <div style="display:inline-block;">
+                  <img src="./img/preloader2.gif">
+            </div>
+            </div>
       <div id="wrap">
             <div id="showcase">
-                  <img style="height:250px;width:250px;" src="pic-5.png" alt="vivek" class="cloud9-item">
+                  <img style="height:250px;width:250px;" src="pic-5.png" alt="Vivek" class="cloud9-item">
                 
                   <img style="height:250px;width:250px;" src="pic-4.png" alt="Deepak" class="cloud9-item">
                   <img style="height:250px;width:250px;" src="pic -1 (1).png" alt="Nirupam" class="cloud9-item">

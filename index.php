@@ -952,8 +952,8 @@
     <!--==========================
       Director & PI Section ````
     ============================-->
-<!-- 
-    <section class="section-bg parallax">
+
+    <!-- <section class="section-bg parallax">
     <header class="section-header">
           <h3 class="section-title">DIRECTOR & PROFESSOR-INCHARGE</h3>
 
@@ -967,6 +967,31 @@
                <div class="dir-content">
                    <h3 class="title">Karunesh Shukla</h3>
                    <span class="post">Director</span>
+                   <ul class="social">
+                       <li><a href="#"><i class="fa fa-facebook-f"></i></a></li>
+                       <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                       <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                   </ul>
+               </div>
+           </div>
+       </div>
+       
+   </div>
+ 
+
+    </div>
+    <header class="section-header">
+          <h3 class="section-title">DIRECTOR & PROFESSOR-INCHARGE</h3>
+
+        </header>
+    <div class="container mt-4">
+      <div class="row" style="display:flex;justify-content:space-around;">
+      <div class="col-md-4 col-sm-6">
+           <div class="our-dir">
+               <img src="img/guest/guest1.jpg">
+               <div class="dir-content">
+                   <h3 class="title">Sarvesh Mishra</h3>
+                   <span class="post">PROFESSOR-INCHARGE</span>
                    <ul class="social">
                        <li><a href="#"><i class="fa fa-facebook-f"></i></a></li>
                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -989,15 +1014,29 @@
                </div>
            </div>
        </div>
-   </div>
-    </div> -->
+       <div class="col-md-4 col-sm-6">
+           <div class="our-dir">
+               <img src="img/guest/guest1.jpg">
+               <div class="dir-content">
+                   <h3 class="title">Sarvesh Mishra</h3>
+                   <span class="post">PROFESSOR-INCHARGE</span>
+                   <ul class="social">
+                       <li><a href="#"><i class="fa fa-facebook-f"></i></a></li>
+                       <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                       <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                   </ul>
+               </div>
+           </div>
+       </div>
 
 
+      </div>
+      </div>
 
 
 
     </section>
-
+ -->
 
 
     <!--==========================

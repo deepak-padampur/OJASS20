@@ -30,7 +30,7 @@
     <div  class="" style="margin:10px;width:220px;">
              <div class="our-team">
                  <div class="pic">
-                     <img src="https://drive.google.com/uc?id=18uSb0nzUL6rBd1_IGPt7yuvd6X8Pxiyc">
+                     <img src="https://drive.google.com/uc?id=18CHMN0Bl0q7NkSqhV-xspluCvOYVGIK7">
                      <ul class="social">
                          <li><a href="#" class="fa fa-facebook"></a></li>
                          <!-- <li><a href="#" class="fa fa-twitter"></a></li> -->
@@ -39,7 +39,7 @@
                      </ul>
                  </div>
                  <div class="team-content">
-                     <h3 class="title">Injam Praveen Chodhary</h3>
+                     <h3 class="title">Injaam praveen kumar</h3>
                      <!-- <span class="post">Web Developer</span> -->
                  </div>
              </div>

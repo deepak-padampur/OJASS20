@@ -1,5 +1,6 @@
 (function($) {
     "use strict";
+    console.log('main js file ')
 
     //   if ($(window).width() < 1200) {
     //     $('body').hide();
