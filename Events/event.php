@@ -348,8 +348,8 @@
               </div>
               <h4 class="title">
               <a href="../Events/EventDetails.php?branch=Vishwa Code Genesis" target="_blank">Vishwa Code Genesis</a></h4>
-              <!-- <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p> -->
-            </div> -->
+               <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p> -->
+            </div>
           </div>
           <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-delay="0.2s" data-wow-duration="1.4s">
             <!-- <div class="box">
