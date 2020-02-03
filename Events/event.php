@@ -253,7 +253,7 @@
             <div class="box">
               <div class="icon" style="background: #fceef3;">
               <a href="../Events/EventDetails.php?branch=Produs" target="_blank">
-              <img src = "../img/eventsIcons/produs.svg" height="140px" style="margin-left:-30px; margin-top:-40px;">
+              <img src = "../img/eventsIcons/new-pie.svg" height="110px" style="margin-left:-37px; margin-top:-26px;">
               </a>
               </div>
               <h4 class="title"><a href="../Events/EventDetails.php?branch=Produs" target="_blank">Produs</a></h4>

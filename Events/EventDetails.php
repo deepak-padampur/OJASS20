@@ -83,7 +83,7 @@
         'No Ground Zone':'../img/eventsIcons/no_ground_zone.svg',
         'National College Film Festival':'../img/eventsIcons/paraphernalia.svg',
         'Prayas':'../img/eventsIcons/prayas.svg',
-        'Produs':'../img/eventsIcons/produs.svg',
+        'Produs':'../img/eventsIcons/new-pie.svg',
         'Rise of Machines':'../img/eventsIcons/rise_of_machines.svg',
         'Silicon Valley':'../img/eventsIcons/silicon_valley.svg',
         'Vishwa Code Genesis':'../img/eventsIcons/vishwacodegenesis.svg',
