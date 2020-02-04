@@ -70,7 +70,7 @@
     <div  class="" style="margin:10px;width:220px;">
              <div class="our-team">
                  <div class="pic">
-                     <img src="https://drive.google.com/uc?id=19qkFRZQTLTEDxKCRvDWs-Vr1vnrYe7RX">
+                     <img src="https://drive.google.com/uc?id=1l59cczqmglLttlBhGF-Zql23pn08PHCj">
                      <ul class="social">
                          <li><a target="_blank" href="https://www.facebook.com/sivaramakrishna.gade.3" class="fa fa-facebook"></a></li>
                          <!-- <li><a href="#" class="fa fa-twitter"></a></li> -->

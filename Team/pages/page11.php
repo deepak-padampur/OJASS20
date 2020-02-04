@@ -29,7 +29,7 @@
     <div style="margin:10px;width:220px;">
              <div class="our-team">
                  <div class="pic">
-                     <img src="https://drive.google.com/uc?id=1rOoqZd3KJfDB602YtdGrgNI3aVnFu-c0">
+                     <img src="https://drive.google.com/uc?id=1ToopixK4SgtAxb9Uzt8SdHOEiPGSk8AH">
                      <ul class="social">
                          <li><a target="_blank" href="#" class="fa fa-facebook"></a></li>
                          <!-- <li><a href="#" class="fa fa-twitter"></a></li> -->
@@ -69,7 +69,7 @@
     <div  style="margin:10px;width:220px;">
              <div class="our-team">
                  <div class="pic">
-                     <img src="https://drive.google.com/uc?id=1rOoqZd3KJfDB602YtdGrgNI3aVnFu-c0">
+                     <img src="https://drive.google.com/uc?id=1fhMPElognOoOt3wyb74t-OZ1bkL0dsSs">
                      <ul class="social">
                          <li><a target="_blank" href="https://www.facebook.com/pranathi.botsa.75" class="fa fa-facebook"></a></li>
                          <!-- <li><a href="#" class="fa fa-twitter"></a></li> -->

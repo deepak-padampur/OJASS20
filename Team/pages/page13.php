@@ -29,7 +29,7 @@
     <div style="margin:10px;width:220px;">
              <div class="our-team">
                  <div class="pic">
-                     <img src="https://drive.google.com/uc?id=19qkFRZQTLTEDxKCRvDWs-Vr1vnrYe7RX">
+                     <img src="https://drive.google.com/uc?id=1hMLVqXS3SzsWJWsNVUuE29SOMYQ4-3dt">
                      <ul class="social">
                          <li><a target="_blank" href="https://www.facebook.com/iampratikranjan" class="fa fa-facebook"></a></li>
                          <!-- <li><a href="#" class="fa fa-twitter"></a></li> -->
