@@ -238,7 +238,7 @@
           <li><a href="#portfolio2">Workshops</a></li>
           <li><a href="#team">Team</a></li>
 
-          <li><a href="#clients">Sponsors</a></li>
+          <!-- <li><a href="#clients">Sponsors</a></li> -->
           <li><a href="#faq">FAQs</a></li>
           <li><a href="#footer">Contact Us</a></li>
           <!-- <li class="float-right notifications"><button onclick="notif()" style="background:transparent;border:none;"><i
@@ -1169,7 +1169,7 @@
       Clients Section
     ============================-->
 
-    <section id="clients" class="wow fadeInUp parallax section-bg">
+    <!-- <section id="clients" class="wow fadeInUp parallax section-bg">
       <div class="container ">
 
         <header class="section-header">
@@ -1188,7 +1188,7 @@
         </div>
 
       </div>
-      <!-- <div class="row">
+      <div class="row">
         <div class="container">
           <div class="col-md-12 float-right">
             <a href="./Sponsor/sponsor.php" target="_blank">
@@ -1196,8 +1196,8 @@
             </a>
           </div>
         </div>
-      </div> -->
-    </section>
+      </div> 
+    </section> -->
 
     <!-- #clients -->
 
