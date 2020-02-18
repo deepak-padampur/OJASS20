@@ -1944,9 +1944,10 @@ transform: scale(1.1);
 
 
     font-family: 'Lobster', cursive;
+    color: #1bb1dc !important;
     /* font-family: 'Lexend Giga', sans-serif; */
     /* font-family: 'Great Vibes', cursive; */
 
-    color: black;
+    
 
 }

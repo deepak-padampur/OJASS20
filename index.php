@@ -223,7 +223,7 @@
         <a href="#header" class="scrollto"><img src="img/logo.png" alt="" class="img-fluid"></a>
       </div> -->
       <div class=" float-left ml-4">
-        <a href="" class="scrollto"><img src="img/logo-black-2.png" alt="" class="" height="70px" style="margin-top:-15px;"><span class="date">  28, 29 Feb - 1 March' 2020 </span> </a>
+        <a href="" class="scrollto"><img src="img/logo-black-2.png" alt="" class="" height="70px" style="margin-top:-15px;"><span class="date">  27, 28 and 29 March' 2020 </span> </a>
         
       </div>
 
@@ -549,7 +549,7 @@
               <p >
                 "The brightest stars shine to light up someone else's sky." And OJASS'20 has a torrent of stars to
                 dazzle our skies and our evenings! We bring to you with 'stars in our eyes', our evening behemoths, all
-                set to capture your minds and hearts from 28 Feb- 1 March, 2020! Hope to see y'all there!
+                set to capture your minds and hearts from 27 March -  29 March, 2020! Hope to see y'all there!
               </p>
               <br>
               
@@ -1234,7 +1234,7 @@
                   <div id="faq18" class="collapse" data-parent="#faq-list1">
                     <p>
                       Ojass,the annual Techno-Management fest of NIT Jamshedpur is one of the East India's biggest
-                      college festivals. It will span for 3 days: February-28,2020 to March-1,2020. The spirit of Ojass
+                      college festivals. It will span for 3 days: March 27,2020 to March 29,2020. The spirit of Ojass
                       lies in
                       encouraging sound practices,making precision engineering a way of life,effectively bringing about
                       a paradigm shift from classroom to path-breaking innovation. </p>
