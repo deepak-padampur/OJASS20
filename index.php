@@ -1387,7 +1387,7 @@
 
                   <div class="footer-info">
                     <!-- <h3>OJASS</h3> -->
-                      <img src="img/logo-crp.png" alt="logo" srcset="" width="250px">
+                      <img src="img/date.png" alt="logo" srcset="" width="250px">
                       <br><br>
                     <p>
                       The Annual Techno-Management
