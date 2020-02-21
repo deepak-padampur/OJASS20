@@ -655,8 +655,15 @@
          
                     <h4 class="text-center" style="text-decoration: underline;">Details</h4>
                     
-                    <div ng-bind-html="event.detail | html" class="txtdetail"></div>
-                  </div>
+                    <div ng-bind-html="event.detail | html" class="txtdetail">
+                    </div>
+                    <!-- Condition for normal Details -->
+                    <div ng-if="event.name!='Spectra'">
+                    </div>
+                    <div ng-if="event.name=='Spectra'">
+                	    For more details <a href='../img/spectra.pptx'>click here</a>.
+                	  </div>
+                    </div>
 
                   <div class="{{event.name.split(' ').join('') | removeBrackets}} rules" style="display:none;">
                     
