@@ -43,7 +43,7 @@
       </div> -->
        <div class=" float-left ml-4">
          <a href="../index.php" class="scrollto"><img src="../img/logo-black-2.png" alt="" class="" height="70px" style="margin-top:-15px;">
-         <span class="date">  28, 29 Feb - 1 March' 2020 </span> 
+         <span class="date">   27, 28 and 29 March' 2020 </span> 
          </a>
      </div>
 
