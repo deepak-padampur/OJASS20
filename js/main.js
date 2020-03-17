@@ -278,8 +278,10 @@ $(window).scroll(function() {
 
 $(window).load(function() {
     $('#video').each(function() {
-        $(this)[0].play();
-    })
+            $(this)[0].play();
+        })
+        // COVID-19 announcement
+    document.getElementById("flash").innerHTML = '<marquee behavior="scroll" direction="left"><span> <img src = "img/new2.gif" > In view of the COVID - 19 outbreak in India and abroad and the advisory issued by Government of India, OJASS - 2020 is kept on hold till further order. </span> </marquee>';
 });
 
 $(document).ready(function() {

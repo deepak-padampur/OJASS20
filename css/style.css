@@ -256,6 +256,27 @@ However, delay the fade out process for 2.5 seconds */
 
 
 /*--------------------------------------------------------------
+# COVID-19 announcement
+--------------------------------------------------------------*/
+
+#flash {
+    z-index: 9999;
+    position: absolute;
+    top: 73px;
+    background-color: #0B4963;
+    width: 100%;
+    padding-top: 3px;
+}
+
+#flash marquee span {
+    text-decoration: none;
+    font-size: 18px;
+    color: white;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+
+/*--------------------------------------------------------------
 # Social Media Side Bar
 --------------------------------------------------------------*/
 
@@ -816,35 +837,36 @@ However, delay the fade out process for 2.5 seconds */
 }
 
 #services .box {
-  padding: 30px;
-  position: relative;
-  overflow: hidden;
-  border-radius: 10px;
-  margin: 0 10px 40px 10px;
-  background: #fff;
-  box-shadow: 0 10px 29px 0 rgba(68, 88, 144, 0.1);
-  transition: all 0.3s ease-in-out;
-  text-align: center;
-  -webkit-transition-duration: .5s;
-  transition-duration: .5s;
-}
-.description {
-  display: none;
-  -webkit-transition-duration: .5s;
-  transition-duration: .5s;
-}
-#services .box:hover{
--webkit-transform: scale(1.1);
-transform: scale(1.1);
+    padding: 30px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 10px;
+    margin: 0 10px 40px 10px;
+    background: #fff;
+    box-shadow: 0 10px 29px 0 rgba(68, 88, 144, 0.1);
+    transition: all 0.3s ease-in-out;
+    text-align: center;
+    -webkit-transition-duration: .5s;
+    transition-duration: .5s;
 }
 
-#services .box:hover  .description {
-  
-  display: block;
-  -webkit-transition-duration: .5s;
-  transition-duration: .5s;
-  
+.description {
+    display: none;
+    -webkit-transition-duration: .5s;
+    transition-duration: .5s;
 }
+
+#services .box:hover {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+#services .box:hover .description {
+    display: block;
+    -webkit-transition-duration: .5s;
+    transition-duration: .5s;
+}
+
 
 /* #services .box:hover  .description{
   
@@ -1911,43 +1933,40 @@ transform: scale(1.1);
 }
 
 .owl-item {
-  
-  opacity:0.7;
+    opacity: 0.7;
 }
 
 .owl-item.active.center {
-  transform: scale(1.2, 1.2);
-  opacity:1!important;
+    transform: scale(1.2, 1.2);
+    opacity: 1!important;
 }
+
 .guest-img {
     padding: 5%;
 }
 
-
 .copyright {
-  color:#1bb1dc;
+    color: #1bb1dc;
 }
+
 .copyright:hover {
-  color:#1bb1dc;
+    color: #1bb1dc;
 }
-.webteam:hover{
-  text-decoration: none;
-  
+
+.webteam:hover {
+    text-decoration: none;
 }
-.webteam{
-  text-decoration: none;
+
+.webteam {
+    text-decoration: none;
 }
+
 .date {
     font-size: 20px;
     margin-top: -10px !important;
     /* font-family: 'Lobster', cursive; */
-
-
     font-family: 'Lobster', cursive;
     color: #1bb1dc !important;
     /* font-family: 'Lexend Giga', sans-serif; */
     /* font-family: 'Great Vibes', cursive; */
-
-    
-
 }

@@ -661,7 +661,7 @@
                     <div ng-if="event.name!='Spectra'">
                     </div>
                     <div ng-if="event.name=='Spectra'">
-                	    For more details <a href='../img/spectra.pptx'>click here</a>.
+                	    <p >For more details <a  href='../img/spectra.pptx'>click here</a>.</p>
                 	  </div>
                     </div>
 

@@ -299,6 +299,10 @@
           <img src="img/logo.png" alt="" srcset="" width="" style="width:70vw;margin-top:-5%;">
         </div> -->
 
+        <!-- COVID-19 announcement -->
+        
+        <div id="flash">
+        </div>
 
         <video id="video"  playsinline loop muted preload="auto" class="fullscreen-bg__video">
         <source src="img/Teaser.mp4" type="video/mp4">
@@ -317,10 +321,9 @@
           onClick="toggleSound()" >
        
 
-      </a>
+      </a>   
      </div> 
-   
-      </div>
+    </div>
 
 
 
